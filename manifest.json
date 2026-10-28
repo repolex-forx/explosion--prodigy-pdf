@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "prodigy-pdf",
+  "versions": [
+    {
+      "commit": "51a58489126c349f40565088365c4c35d4f69fb6",
+      "parsed_at": "2026-10-28T12:08:12.752337+00:00",
+      "tag": "v0.4.3",
+      "filetree": "filetree/51a58489126c349f40565088365c4c35d4f69fb6.nq.gz",
+      "blobs": [
+        "blob/8be489401522ab49d649f5bb527a69852d698c7f.nq.gz",
+        "blob/6dbd43fbd7f530f3f0c554c63605be7e3d220485.nq.gz",
+        "blob/fde18edcc5243771ac78a5a683ed0c1950ec7baf.nq.gz",
+        "blob/545542b9ea92b0bc4a6f57698d082a28275b962f.nq.gz",
+        "blob/6c461cd6ac827a182970f390ba0f79ff6859f659.nq.gz",
+        "blob/c225b6edbe75c1d49e3bea15bb204117c62d00af.nq.gz",
+        "blob/d4dc6d358f8ac7303a0a7bab9cd6b3593f0eb374.nq.gz",
+        "blob/4952852ffb94c72802187dcea7c2d623e8626e52.nq.gz",
+        "blob/4b23925a7157632d7d6b6c3fc94333ddf27b2ba2.nq.gz",
+        "blob/2f141c115ddc6ac05b35e183d45ba5039d3d283f.nq.gz",
+        "blob/dbce267a72543bb4cbb7a213649a5b066d7b8db6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
