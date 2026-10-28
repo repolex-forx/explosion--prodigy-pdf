@@ -1,0 +1,7 @@
+[2026-10-28T12:09:23Z] === AST ITERATION 1 START | repo=explosion/prodigy-pdf sha=51a58489 ===
+[2026-10-28T12:09:23Z] [iter=1] PHASE START: ast repo=explosion/prodigy-pdf sha=51a58489
+[2026-10-28T12:09:23Z] [iter=1] Building AST aggregate chunks
+[2026-10-28T12:09:25Z] [iter=1] AST chunks built count=1 triples=31893
+[2026-10-28T12:09:25Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/51a58489126c349f40565088365c4c35d4f69fb6/.complete
+[2026-10-28T12:09:25Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-10-28T12:09:25Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
