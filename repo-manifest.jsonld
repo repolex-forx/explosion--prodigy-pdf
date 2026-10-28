@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/explosion/prodigy-pdf/commit/51a58489126c349f40565088365c4c35d4f69fb6",
       "git:hexsha": "51a58489126c349f40565088365c4c35d4f69fb6",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.4.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.4.3",
+      "repolex:parsedAt": "2026-10-28T12:10:27.361699+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/prodigy-pdf/commit/66d0b288572c9771c9bb32d23a334725648fd9c7",
